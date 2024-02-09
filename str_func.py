@@ -1,7 +1,7 @@
 stroka = input()
 print(stroka.upper())
 """
-Функция принимает слово и делает все буквы заглавной
+Функция принимает слово и делает все буквы заглавными
 """
 slowo = input()
 print(slowo.capitalize())
